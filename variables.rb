@@ -9,4 +9,9 @@ my_cat = "Silvia"
  cars = 55
  houses = 10000000
  people = 4
- 
+
+ #floats
+
+ money = 1000.52
+ percent = 99.2
+ poll = 34.26
