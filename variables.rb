@@ -6,8 +6,11 @@ my_cat = "Silvia"
 
 # Integers
 
+# store 55 in the variable cars
  cars = 55
+ # store 10000000 in the variable houses
  houses = 10000000
+ # store 4 in the variable people
  people = 4
  
  # floats
