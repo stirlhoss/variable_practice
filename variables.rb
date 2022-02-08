@@ -15,3 +15,10 @@ my_cat = "Silvia"
  money = 1000.52
  percent = 99.2
  poll = 34.26
+
+ # booleans
+
+ cold = true
+ hot = false
+ dehydrated = true
+ 
