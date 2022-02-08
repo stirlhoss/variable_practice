@@ -9,8 +9,8 @@ my_cat = "Silvia"
  cars = 55
  houses = 10000000
  people = 4
-
- #floats
+ 
+ # floats
 
  money = 1000.52
  percent = 99.2
@@ -21,4 +21,8 @@ my_cat = "Silvia"
  cold = true
  hot = false
  dehydrated = true
- 
+
+ # reassign
+
+ my_home = "Olney"
+ my_cat = "Max"
